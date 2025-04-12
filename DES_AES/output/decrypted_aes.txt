@@ -1,0 +1,2 @@
+Hello, this is a test message for DES encryption!
+Toi La Do Thanh Dat
