@@ -1,6 +1,6 @@
 # DES and AES Encryption Implementation
 
-This project implements the Data Encryption Standard (DES) and Advanced Encryption Standard (AES) algorithms for file encryption and decryption. It provides a simple command-line interface to encrypt and decrypt files using both algorithms.
+This midterm project implements the Data Encryption Standard (DES) and Advanced Encryption Standard (AES) algorithms for file encryption and decryption. It provides a simple command-line interface to encrypt and decrypt files using both algorithms. 
 
 ## Features
 
